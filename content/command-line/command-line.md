@@ -7,7 +7,7 @@ CatalogContent:
   - 'paths/back-end-engineer-career-path'
 ---
 
-The **command line** is a text-based interface used in most operating systems for a variety of tasks including:
+The **command line** is a way of interacting with a computer without using its GUI. It can often be faster, if unfamiliar. 
 
 - Navigating and interacting with the computer's [file system structure](https://www.codecademy.com/resources/docs/general/file-system-structure).
 - Running programs or launching applications written in a particular [tech stack](https://www.codecademy.com/resources/docs/general/tech-stack),
